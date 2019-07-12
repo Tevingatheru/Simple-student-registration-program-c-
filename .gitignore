@@ -7,6 +7,7 @@
 .settings/
 *.sublime-workspace
 .vscode/*
+.vscode
 !.vscode/launch.json
 .dep.inc
 
@@ -14,6 +15,7 @@
 build
 dist
 out
+nbproject
 
 # System Files
 .DS_Store
